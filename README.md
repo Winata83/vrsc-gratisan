@@ -1,0 +1,2 @@
+# vrsc-gratisan
+mining 
